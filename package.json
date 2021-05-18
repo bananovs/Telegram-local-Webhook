@@ -1,0 +1,17 @@
+{
+  "name": "getUpdates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iMakeBots.ru",
+  "license": "",
+  "dependencies": {
+    "https-proxy-agent": "^2.2.1",
+    "request": "^2.88.0",
+    "telegraf": "^3.26.0",
+    "util": "~0.12.3"
+  }
+}

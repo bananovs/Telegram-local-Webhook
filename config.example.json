@@ -1,0 +1,6 @@
+{
+    "token": "", 
+    "webhook": "", 
+    "method": "POST",
+    "headers": {"content-type": "application/json"}
+}
